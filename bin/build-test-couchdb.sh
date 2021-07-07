@@ -25,7 +25,7 @@
 set -e
 
 cd /usr/src
-git clone https://github.com/apache/couchdb
+git clone https://github.com/mtenrero/couchdb
 cd couchdb
 
 echo $(whoami)
